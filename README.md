@@ -26,12 +26,12 @@ The dataset is a csv file with all the information and an excel file having info
 
 ## Conclusions
 Below are the Major Driving factors which can be used to predict the loan deafulters
-    - home_ownership
-    - Grade
-    - revolving_util
-    - int_rate
-    - Pub_rec
-    - annual_income 
+- home_ownership
+- Grade
+- revolving_util
+- int_rate
+- Pub_rec
+- annual_income 
 
 ## Contact
 Created by Sonipriya and Anuja!
